@@ -1,0 +1,6 @@
+gym~=0.26.0
+setuptools~=65.3.0
+numpy~=1.23.1
+pygame~=2.1.2
+typeguard~=2.13.3
+torch~=1.12.1
